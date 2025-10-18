@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# Otavio Augusto @oaugustopro www.oaugusto.pro
 import ctypes
 import sys
 import argparse
