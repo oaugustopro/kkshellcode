@@ -18,8 +18,8 @@ This tool is intended for **ETHICAL HACKING**, **EDUCATIONAL**, and **RESEARCH P
 * **Windows Execution (Optional):** Ability to execute the generated shellcode directly on a Windows platform for testing and debugging (`--execute-x86`).
 * **Output Formats:** Saves the shellcode to a raw binary file (`shellcode.bin`) and a C-style hexadecimal string (`shellcode_hex.txt`).
 
----
-
+![](ksnip_20251017-213451.png)
+![](ksnip_20251017-213455.png)
 ## 🛠️ Requirements
 
 The script is written in Python 3 and requires the following libraries:
